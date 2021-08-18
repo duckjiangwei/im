@@ -1,0 +1,19 @@
+{
+    "name": "duckjiangwei/im",
+    "description": "this is im system api",
+    "require": {
+        "php-curl-class/php-curl-class": "^8.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "duckjiangwei",
+            "email": "365039476@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Duckjiangwei\\Im\\": "src/"
+        }
+    }
+}
