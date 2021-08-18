@@ -35,7 +35,7 @@ class ServerAPI
      *
      * @param $uid 唯一标识
      * @param string $nickname 昵称
-     * @param string $avatar 头像链接
+     * @param string $avatar 头像链接1
      * @return string
      */
     public function register($uid, $nickname = '', $avatar = '')
