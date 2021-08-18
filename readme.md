@@ -2,14 +2,14 @@
 
 ## 安装
 ```bash
-composer require duckjiangwei/im
+composer require duckman/im
 ```
 
 ## 注册服务
 ```bash
 'providers' => [
     ...
-    Duckjiangwei\Im\ImServiceProvider::class,
+    DuckMan\Im\ImServiceProvider::class,
     ...
 ]
 ```

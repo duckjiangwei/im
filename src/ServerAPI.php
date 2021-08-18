@@ -1,6 +1,6 @@
 <?php
 
-namespace Duckjiangwei\Im;
+namespace DuckMan\Im;
 
 use Curl\Curl;
 

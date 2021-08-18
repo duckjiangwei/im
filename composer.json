@@ -1,5 +1,5 @@
 {
-    "name": "duckjiangwei/im",
+    "name": "duckman/im",
     "description": "this is im system api",
     "require": {
         "php-curl-class/php-curl-class": "^8.6"
@@ -13,7 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Duckjiangwei\\Im\\": "src/"
+            "DuckMan\\Im\\": "src/"
         }
     }
 }
