@@ -15,5 +15,12 @@
         "psr-4": {
             "DuckMan\\Im\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "DuckMan\\Im\\ImServiceProvider"
+            ]
+        }
     }
 }

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1ea0bb3338c0f2264eb55155c481d704",
+    "content-hash": "e0a128e538cc7d2e8ec272c518146487",
     "packages": [
         {
             "name": "php-curl-class/php-curl-class",
@@ -71,6 +71,10 @@
                 "web-service",
                 "xml"
             ],
+            "support": {
+                "issues": "https://github.com/php-curl-class/php-curl-class/issues",
+                "source": "https://github.com/php-curl-class/php-curl-class/tree/8.10.0"
+            },
             "time": "2021-06-23T14:34:00+00:00"
         }
     ],
@@ -81,5 +85,6 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
 }
