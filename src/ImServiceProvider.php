@@ -8,7 +8,7 @@ class ImServiceProvider extends ServiceProvider
 {
     public function register()
     {
-        $this->app->singleton('im', function () {
+        $this->app->singleton('im_api', function () {
             return new ServerAPI();
         });
     }
